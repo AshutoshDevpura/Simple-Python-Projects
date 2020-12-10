@@ -54,11 +54,11 @@ root.destroy() will quit the program by stopping the mainloop().
 This function set all variables to empty string.
 
 **Define labels and buttons**
-root is the name which we refer to our window
-text which we display on the label
-font in which the text is written
-insertwidth use to set the width of the insertion cursor
-bg sets the background colour
-command is call when the button is click
-textvariable used to retrieve the current text to the entry widget
+root is the name which we refer to our window.
+text which we display on the label.
+font in which the text is written.
+insertwidth use to set the width of the insertion cursor.
+bg sets the background colour.
+command is call when the button is click.
+textvariable used to retrieve the current text to the entry widget.
 root.mainloop() is a method that executes when we want to run our program.
